@@ -1,0 +1,11 @@
+{
+    "response": {
+        "features": {
+            "alerts": 1
+        },
+        "version": "0.1",
+        "termsofService": "http://www.wunderground.com/weather/api/d/terms.html"
+    },
+    "alerts": [],
+    "query_zone": "041"
+}

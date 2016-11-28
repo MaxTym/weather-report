@@ -1,0 +1,156 @@
+{
+    "query_zone": "001",
+    "alerts": [
+        {
+            "date_epoch": "1480364460",
+            "StormBased": {},
+            "description": "Lake Wind Advisory",
+            "type": "WND",
+            "tz_long": "America/Chicago",
+            "tz_short": "CST",
+            "message": "\n...Lake Wind Advisory remains in effect until 5 PM CST this\nafternoon...\n\n* event...a tight pressure gradient ahead of a dryline will \n result in strong south winds of 15 to 25 mph...with higher \n gusts throughout the day across East Texas... southeast \n Oklahoma...southwest Arkansas...and western Louisiana. These \n winds will become southwest with gusts to 30-40 mph by this \n afternoon with the passage of a weak dryline. \n\n* Timing...the strong and gusty winds will continue through the \n day across East Texas...extreme southeast Oklahoma...southwest \n Arkansas...and western Louisiana. \n\n* Impact...gusty south and southwest winds will make for \n hazardous boating conditions on area lakes. \n\nPrecautionary/preparedness actions...\n\nA lake Wind Advisory indicates that winds will cause rough chop\non area lakes. Small boats will be especially prone to capsizing.\n\n\n\n\n\n",
+            "expires": "5:00 PM CST on November 28, 2016",
+            "significance": "Y",
+            "date": "2:21 PM CST on November 28, 2016",
+            "ZONES": [
+                {
+                    "ZONE": "050",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "051",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "059",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "060",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "070",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "071",
+                    "state": "AR"
+                },
+                {
+                    "ZONE": "001",
+                    "state": "LA"
+                },
+                {
+                    "ZONE": "002",
+                    "state": "LA"
+                },
+                {
+                    "ZONE": "010",
+                    "state": "LA"
+                },
+                {
+                    "ZONE": "017",
+                    "state": "LA"
+                },
+                {
+                    "ZONE": "077",
+                    "state": "OK"
+                },
+                {
+                    "ZONE": "096",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "097",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "108",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "109",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "110",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "111",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "112",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "124",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "125",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "126",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "136",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "137",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "138",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "149",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "150",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "151",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "152",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "153",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "165",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "166",
+                    "state": "TX"
+                },
+                {
+                    "ZONE": "167",
+                    "state": "TX"
+                }
+            ],
+            "expires_epoch": "1480374000",
+            "phenomena": "LW"
+        }
+    ],
+    "response": {
+        "version": "0.1",
+        "termsofService": "http://www.wunderground.com/weather/api/d/terms.html",
+        "features": {
+            "alerts": 1
+        }
+    }
+}
