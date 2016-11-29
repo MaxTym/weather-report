@@ -1,0 +1,931 @@
+{
+    "simpleforecast": {
+        "forecastday": [
+            {
+                "pop": 90,
+                "high": {
+                    "fahrenheit": "69",
+                    "celsius": "20"
+                },
+                "snow_day": {
+                    "cm": null,
+                    "in": null
+                },
+                "maxwind": {
+                    "mph": 35,
+                    "kph": 56,
+                    "dir": "",
+                    "degrees": 0
+                },
+                "conditions": "Rain",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 2,
+                    "kph": 3,
+                    "dir": "South",
+                    "degrees": 189
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "52",
+                    "celsius": "11"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/rain.gif",
+                "qpf_night": {
+                    "mm": 19,
+                    "in": 0.75
+                },
+                "icon": "rain",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 18,
+                    "in": 0.7
+                },
+                "period": 1,
+                "date": {
+                    "month": 11,
+                    "yday": 332,
+                    "monthname_short": "Nov",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on November 28, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Mon",
+                    "epoch": "1480377600",
+                    "tz_long": "America/New_York",
+                    "monthname": "November",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Monday",
+                    "day": 28
+                },
+                "qpf_day": {
+                    "mm": null,
+                    "in": null
+                },
+                "avehumidity": 71
+            },
+            {
+                "pop": 40,
+                "high": {
+                    "fahrenheit": "75",
+                    "celsius": "24"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 10,
+                    "kph": 16,
+                    "dir": "SSW",
+                    "degrees": 206
+                },
+                "conditions": "Chance of Rain",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 9,
+                    "kph": 14,
+                    "dir": "SSW",
+                    "degrees": 206
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "58",
+                    "celsius": "14"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "qpf_night": {
+                    "mm": 4,
+                    "in": 0.15
+                },
+                "icon": "chancerain",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 5,
+                    "in": 0.19
+                },
+                "period": 2,
+                "date": {
+                    "month": 11,
+                    "yday": 333,
+                    "monthname_short": "Nov",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on November 29, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Tue",
+                    "epoch": "1480464000",
+                    "tz_long": "America/New_York",
+                    "monthname": "November",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Tuesday",
+                    "day": 29
+                },
+                "qpf_day": {
+                    "mm": 1,
+                    "in": 0.04
+                },
+                "avehumidity": 63
+            },
+            {
+                "pop": 90,
+                "high": {
+                    "fahrenheit": "65",
+                    "celsius": "18"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 15,
+                    "kph": 24,
+                    "dir": "SW",
+                    "degrees": 217
+                },
+                "conditions": "Rain",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 11,
+                    "kph": 18,
+                    "dir": "SW",
+                    "degrees": 217
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "35",
+                    "celsius": "2"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/rain.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "rain",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 25,
+                    "in": 1.0
+                },
+                "period": 3,
+                "date": {
+                    "month": 11,
+                    "yday": 334,
+                    "monthname_short": "Nov",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on November 30, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Wed",
+                    "epoch": "1480550400",
+                    "tz_long": "America/New_York",
+                    "monthname": "November",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Wednesday",
+                    "day": 30
+                },
+                "qpf_day": {
+                    "mm": 25,
+                    "in": 1.0
+                },
+                "avehumidity": 73
+            },
+            {
+                "pop": 10,
+                "high": {
+                    "fahrenheit": "52",
+                    "celsius": "11"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 10,
+                    "kph": 16,
+                    "dir": "WSW",
+                    "degrees": 249
+                },
+                "conditions": "Clear",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 8,
+                    "kph": 13,
+                    "dir": "WSW",
+                    "degrees": 249
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "29",
+                    "celsius": "-2"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "clear",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "period": 4,
+                "date": {
+                    "month": 12,
+                    "yday": 335,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 01, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Thu",
+                    "epoch": "1480636800",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Thursday",
+                    "day": 1
+                },
+                "qpf_day": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "avehumidity": 62
+            },
+            {
+                "pop": 10,
+                "high": {
+                    "fahrenheit": "50",
+                    "celsius": "10"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 10,
+                    "kph": 16,
+                    "dir": "W",
+                    "degrees": 269
+                },
+                "conditions": "Clear",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 5,
+                    "kph": 8,
+                    "dir": "W",
+                    "degrees": 269
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "29",
+                    "celsius": "-2"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "clear",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "period": 5,
+                "date": {
+                    "month": 12,
+                    "yday": 336,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 02, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Fri",
+                    "epoch": "1480723200",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Friday",
+                    "day": 2
+                },
+                "qpf_day": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "avehumidity": 64
+            },
+            {
+                "pop": 60,
+                "high": {
+                    "fahrenheit": "49",
+                    "celsius": "9"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 5,
+                    "kph": 8,
+                    "dir": "NNE",
+                    "degrees": 17
+                },
+                "conditions": "Chance of Rain",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 2,
+                    "kph": 3,
+                    "dir": "NNE",
+                    "degrees": 17
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "34",
+                    "celsius": "1"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "qpf_night": {
+                    "mm": 19,
+                    "in": 0.73
+                },
+                "icon": "chancerain",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 20,
+                    "in": 0.77
+                },
+                "period": 6,
+                "date": {
+                    "month": 12,
+                    "yday": 337,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 03, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Sat",
+                    "epoch": "1480809600",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Saturday",
+                    "day": 3
+                },
+                "qpf_day": {
+                    "mm": 1,
+                    "in": 0.05
+                },
+                "avehumidity": 68
+            },
+            {
+                "pop": 60,
+                "high": {
+                    "fahrenheit": "54",
+                    "celsius": "12"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 5,
+                    "kph": 8,
+                    "dir": "ESE",
+                    "degrees": 122
+                },
+                "conditions": "Chance of Rain",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 4,
+                    "kph": 6,
+                    "dir": "ESE",
+                    "degrees": 122
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "33",
+                    "celsius": "1"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "qpf_night": {
+                    "mm": 4,
+                    "in": 0.14
+                },
+                "icon": "chancerain",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 16,
+                    "in": 0.64
+                },
+                "period": 7,
+                "date": {
+                    "month": 12,
+                    "yday": 338,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 04, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Sun",
+                    "epoch": "1480896000",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Sunday",
+                    "day": 4
+                },
+                "qpf_day": {
+                    "mm": 13,
+                    "in": 0.5
+                },
+                "avehumidity": 80
+            },
+            {
+                "pop": 20,
+                "high": {
+                    "fahrenheit": "51",
+                    "celsius": "11"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 10,
+                    "kph": 16,
+                    "dir": "WSW",
+                    "degrees": 252
+                },
+                "conditions": "Mostly Cloudy",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 8,
+                    "kph": 13,
+                    "dir": "WSW",
+                    "degrees": 252
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "29",
+                    "celsius": "-2"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "mostlycloudy",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "period": 8,
+                "date": {
+                    "month": 12,
+                    "yday": 339,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 05, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Mon",
+                    "epoch": "1480982400",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Monday",
+                    "day": 5
+                },
+                "qpf_day": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "avehumidity": 69
+            },
+            {
+                "pop": 40,
+                "high": {
+                    "fahrenheit": "56",
+                    "celsius": "13"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 5,
+                    "kph": 8,
+                    "dir": "SW",
+                    "degrees": 226
+                },
+                "conditions": "Ice Pellets",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 4,
+                    "kph": 6,
+                    "dir": "SW",
+                    "degrees": 226
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "37",
+                    "celsius": "3"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/sleet.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "sleet",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 2,
+                    "in": 0.08
+                },
+                "period": 9,
+                "date": {
+                    "month": 12,
+                    "yday": 340,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 06, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Tue",
+                    "epoch": "1481068800",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Tuesday",
+                    "day": 6
+                },
+                "qpf_day": {
+                    "mm": 2,
+                    "in": 0.08
+                },
+                "avehumidity": 66
+            },
+            {
+                "pop": 20,
+                "high": {
+                    "fahrenheit": "58",
+                    "celsius": "14"
+                },
+                "snow_day": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "maxwind": {
+                    "mph": 5,
+                    "kph": 8,
+                    "dir": "WSW",
+                    "degrees": 253
+                },
+                "conditions": "Partly Cloudy",
+                "snow_night": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "avewind": {
+                    "mph": 4,
+                    "kph": 6,
+                    "dir": "WSW",
+                    "degrees": 253
+                },
+                "snow_allday": {
+                    "cm": 0.0,
+                    "in": 0.0
+                },
+                "low": {
+                    "fahrenheit": "37",
+                    "celsius": "3"
+                },
+                "skyicon": "",
+                "minhumidity": 0,
+                "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                "qpf_night": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "icon": "partlycloudy",
+                "maxhumidity": 0,
+                "qpf_allday": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "period": 10,
+                "date": {
+                    "month": 12,
+                    "yday": 341,
+                    "monthname_short": "Dec",
+                    "sec": 0,
+                    "year": 2016,
+                    "pretty": "7:00 PM EST on December 07, 2016",
+                    "isdst": "0",
+                    "min": "00",
+                    "tz_short": "EST",
+                    "weekday_short": "Wed",
+                    "epoch": "1481155200",
+                    "tz_long": "America/New_York",
+                    "monthname": "December",
+                    "ampm": "PM",
+                    "hour": 19,
+                    "weekday": "Wednesday",
+                    "day": 7
+                },
+                "qpf_day": {
+                    "mm": 0,
+                    "in": 0.0
+                },
+                "avehumidity": 69
+            }
+        ]
+    },
+    "txt_forecast": {
+        "forecastday": [
+            {
+                "pop": "90",
+                "icon_url": "http://icons.wxug.com/i/c/k/rain.gif",
+                "fcttext_metric": "Rain and wind. Low 11C.",
+                "fcttext": "Windy with periods of rain. Lows overnight in the low 50s.",
+                "icon": "rain",
+                "period": 0,
+                "title": "Monday"
+            },
+            {
+                "pop": "90",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_rain.gif",
+                "fcttext_metric": "Showers early, becoming a steady rain overnight. Windy. Low 11C. Winds S at 40 to 55 km/h. Chance of rain 90%. Rainfall near 12mm. Winds could occasionally gust over 65 km/h.",
+                "fcttext": "Rain and wind. Low 52F. Winds S at 20 to 30 mph. Chance of rain 90%. Rainfall near an inch. Winds could occasionally gust over 40 mph.",
+                "icon": "nt_rain",
+                "period": 1,
+                "title": "Monday Night"
+            },
+            {
+                "pop": "40",
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "fcttext_metric": "A shower or two possible early with partly cloudy skies in the afternoon. High 23C. Winds SSW at 10 to 15 km/h. Chance of rain 40%.",
+                "fcttext": "A shower or two possible early with partly cloudy skies in the afternoon. High around 75F. Winds SSW at 5 to 10 mph. Chance of rain 40%.",
+                "icon": "chancerain",
+                "period": 2,
+                "title": "Tuesday"
+            },
+            {
+                "pop": "80",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_tstorms.gif",
+                "fcttext_metric": "Partial cloudiness early, with scattered showers and thunderstorms later during the night. Low around 15C. Winds S at 10 to 15 km/h. Chance of rain 60%.",
+                "fcttext": "Partly cloudy during the evening with thunderstorms becoming likely overnight. Low 58F. Winds S at 5 to 10 mph. Chance of rain 80%.",
+                "icon": "nt_tstorms",
+                "period": 3,
+                "title": "Tuesday Night"
+            },
+            {
+                "pop": "90",
+                "icon_url": "http://icons.wxug.com/i/c/k/rain.gif",
+                "fcttext_metric": "Rain. Thunder possible. High 18C. Winds SW at 15 to 25 km/h. Chance of rain 90%. Rainfall near 25mm.",
+                "fcttext": "Cloudy with periods of rain. Thunder possible. High near 65F. Winds SW at 10 to 15 mph. Chance of rain 90%. Rainfall possibly over one inch.",
+                "icon": "rain",
+                "period": 4,
+                "title": "Wednesday"
+            },
+            {
+                "pop": "20",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+                "fcttext_metric": "Partly cloudy skies. Low 2C. Winds WSW at 10 to 15 km/h.",
+                "fcttext": "Some clouds early will give way to generally clear conditions overnight. Low near 35F. Winds WSW at 5 to 10 mph.",
+                "icon": "nt_partlycloudy",
+                "period": 5,
+                "title": "Wednesday Night"
+            },
+            {
+                "pop": "10",
+                "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+                "fcttext_metric": "Mainly sunny. High 11C. Winds WSW at 10 to 15 km/h.",
+                "fcttext": "Sunny skies. High 52F. Winds WSW at 5 to 10 mph.",
+                "icon": "clear",
+                "period": 6,
+                "title": "Thursday"
+            },
+            {
+                "pop": "10",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+                "fcttext_metric": "A mostly clear sky. Low -1C. Winds light and variable.",
+                "fcttext": "A mostly clear sky. Low 29F. Winds light and variable.",
+                "icon": "nt_clear",
+                "period": 7,
+                "title": "Thursday Night"
+            },
+            {
+                "pop": "10",
+                "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+                "fcttext_metric": "A mainly sunny sky. High near 10C. Winds light and variable.",
+                "fcttext": "Mainly sunny. High around 50F. Winds light and variable.",
+                "icon": "clear",
+                "period": 8,
+                "title": "Friday"
+            },
+            {
+                "pop": "0",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+                "fcttext_metric": "Mainly clear early, then a few clouds later on. Low -2C. Winds light and variable.",
+                "fcttext": "Partly cloudy. Low 29F. Winds light and variable.",
+                "icon": "nt_clear",
+                "period": 9,
+                "title": "Friday Night"
+            },
+            {
+                "pop": "60",
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "fcttext_metric": "Partly cloudy skies during the morning hours will give way to occasional showers in the afternoon. High 9C. Winds light and variable. Chance of rain 60%.",
+                "fcttext": "Partly cloudy in the morning. Increasing clouds with periods of showers later in the day. High 49F. Winds light and variable. Chance of rain 60%.",
+                "icon": "chancerain",
+                "period": 10,
+                "title": "Saturday"
+            },
+            {
+                "pop": "60",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+                "fcttext_metric": "Cloudy with occasional rain showers. Low 1C. Winds light and variable. Chance of rain 60%.",
+                "fcttext": "Cloudy with showers. Low 34F. Winds light and variable. Chance of rain 60%.",
+                "icon": "nt_chancerain",
+                "period": 11,
+                "title": "Saturday Night"
+            },
+            {
+                "pop": "60",
+                "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+                "fcttext_metric": "Cloudy with showers. High 12C. Winds light and variable. Chance of rain 60%.",
+                "fcttext": "Considerable cloudiness with occasional rain showers. High 54F. Winds light and variable. Chance of rain 60%.",
+                "icon": "chancerain",
+                "period": 12,
+                "title": "Sunday"
+            },
+            {
+                "pop": "60",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_snow.gif",
+                "fcttext_metric": "Rain showers early mixing with snow showers late. Low around 0C. Winds light and variable. Chance of precip 60%.",
+                "fcttext": "Rain showers early mixing with snow showers late. Low 33F. Winds light and variable. Chance of precip 60%.",
+                "icon": "nt_snow",
+                "period": 13,
+                "title": "Sunday Night"
+            },
+            {
+                "pop": "20",
+                "icon_url": "http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+                "fcttext_metric": "Mostly cloudy skies. High around 10C. Winds WSW at 10 to 15 km/h.",
+                "fcttext": "Mostly cloudy skies. High 51F. Winds WSW at 5 to 10 mph.",
+                "icon": "mostlycloudy",
+                "period": 14,
+                "title": "Monday"
+            },
+            {
+                "pop": "30",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_sleet.gif",
+                "fcttext_metric": "Partly cloudy skies early will give way to overcast skies and freezing drizzle after midnight. Low -2C. Winds light and variable.",
+                "fcttext": "Partly cloudy skies early will give way to overcast skies and freezing drizzle after midnight. Low 29F. Winds light and variable.",
+                "icon": "nt_sleet",
+                "period": 15,
+                "title": "Monday Night"
+            },
+            {
+                "pop": "40",
+                "icon_url": "http://icons.wxug.com/i/c/k/sleet.gif",
+                "fcttext_metric": "Rain and freezing rain in the morning then clearing and becoming mostly sunny in the afternoon. High 13C. Winds light and variable. Chance of precip 40%.",
+                "fcttext": "Rain and freezing rain in the morning then clearing and becoming mostly sunny in the afternoon. High 56F. Winds light and variable. Chance of precip 40%.",
+                "icon": "sleet",
+                "period": 16,
+                "title": "Tuesday"
+            },
+            {
+                "pop": "20",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_mostlycloudy.gif",
+                "fcttext_metric": "Partly cloudy skies during the evening will give way to cloudy skies overnight. Low 2C. Winds light and variable.",
+                "fcttext": "Partly cloudy skies in the evening, then becoming cloudy overnight. Low 37F. Winds light and variable.",
+                "icon": "nt_mostlycloudy",
+                "period": 17,
+                "title": "Tuesday Night"
+            },
+            {
+                "pop": "20",
+                "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+                "fcttext_metric": "Cloudy skies early, then partly cloudy in the afternoon. High 14C. Winds light and variable.",
+                "fcttext": "Cloudy skies early, then partly cloudy in the afternoon. High 58F. Winds light and variable.",
+                "icon": "partlycloudy",
+                "period": 18,
+                "title": "Wednesday"
+            },
+            {
+                "pop": "20",
+                "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+                "fcttext_metric": "Clear skies with a few passing clouds. Low 2C. Winds light and variable.",
+                "fcttext": "Clear skies with a few passing clouds. Low 37F. Winds light and variable.",
+                "icon": "nt_clear",
+                "period": 19,
+                "title": "Wednesday Night"
+            }
+        ],
+        "date": "9:30 PM EST"
+    }
+}

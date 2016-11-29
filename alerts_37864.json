@@ -1,0 +1,42 @@
+[
+    {
+        "description": "High Wind Warning",
+        "date": "8:10 PM EST on November 28, 2016",
+        "significance": "W",
+        "tz_long": "America/New_York",
+        "type": "WND",
+        "StormBased": {},
+        "ZONES": [
+            {
+                "ZONE": "040",
+                "state": "TN"
+            },
+            {
+                "ZONE": "042",
+                "state": "TN"
+            },
+            {
+                "ZONE": "044",
+                "state": "TN"
+            },
+            {
+                "ZONE": "071",
+                "state": "TN"
+            },
+            {
+                "ZONE": "073",
+                "state": "TN"
+            },
+            {
+                "ZONE": "086",
+                "state": "TN"
+            }
+        ],
+        "expires": "7:00 AM EST on November 29, 2016",
+        "expires_epoch": "1480420800",
+        "date_epoch": "1480381800",
+        "message": "\n...High Wind Warning in effect until 7 am EST Tuesday...\n\nThe National Weather Service in Morristown has issued a High Wind\nWarning...which is in effect until 7 am EST Tuesday. The Wind\nAdvisory is no longer in effect. \n\n* Event...southerly winds increasing to 20 to 40 mph with gusts up\n to 60 mph\n\n* timing...strong southerly winds tonight and continuing until\n around daybreak Tuesday.\n\n* Impacts...the windy conditions may down trees and power lines. \n Loose outdoor objects should be secured. Motorists should be \n extra cautious to cross wind especially when driving in the \n higher elevations and/or driving high profiles vehicles. \n\nPrecautionary/preparedness actions...\n\nA High Wind Warning means a hazardous high wind event is expected\nor occurring. Sustained wind speeds of at least 40 mph and/or\ngusts of 58 mph or stronger can be expected at times. Winds of\nthese magnitudes can cause property damage and power outages. \nMotorists should use caution...especially those in high profile\nvehicles.\n\n\n\n\n\n\n",
+        "phenomena": "HW",
+        "tz_short": "EST"
+    }
+]
