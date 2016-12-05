@@ -1,0 +1,46 @@
+[
+    {
+        "ZONES": [
+            {
+                "ZONE": "040",
+                "state": "TN"
+            },
+            {
+                "ZONE": "042",
+                "state": "TN"
+            },
+            {
+                "ZONE": "044",
+                "state": "TN"
+            },
+            {
+                "ZONE": "046",
+                "state": "TN"
+            },
+            {
+                "ZONE": "071",
+                "state": "TN"
+            },
+            {
+                "ZONE": "073",
+                "state": "TN"
+            },
+            {
+                "ZONE": "086",
+                "state": "TN"
+            }
+        ],
+        "message": "\n...High wind watch in effect from Monday evening through Tuesday\nafternoon...\n\nThe National Weather Service in Morristown has issued a high wind\nwatch...which is in effect from Monday evening through Tuesday\nafternoon. \n\n* Event...strong southeasterly mountain wave winds of 25 to 40\n mph...with gusts up to 60 mph are possible Monday night into\n Tuesday...along the immediate foothills of the east Tennessee\n mountains.\n\n* Timing...late Monday evening through Tuesday afternoon.\n\n* Impacts...these winds could contribute to fire growth and spread\n in areas that still have ongoing wildfires. Additionally...they\n may down trees or tree limbs...as well as power lines. Loose outdoor\n objects should be secured. Motorists should be extra cautious to\n cross winds especially when driving in the higher elevations.\n\nPrecautionary/preparedness actions...\n\nA high wind watch means there is the potential for a hazardous\nhigh wind event. Sustained winds of at least 40 mph...and/or\ngusts of 58 mph or stronger may occur. Continue to monitor the\nlatest forecasts.\n\n\n\n\n\n",
+        "StormBased": {},
+        "date": "2:06 PM EST on December 4, 2016",
+        "tz_short": "EST",
+        "description": "High Wind Watch",
+        "tz_long": "America/New_York",
+        "expires": "4:00 PM EST on December 06, 2016",
+        "date_epoch": "1480878360",
+        "expires_epoch": "1481058000",
+        "type": "WND",
+        "significance": "A",
+        "phenomena": "HW"
+    }
+]

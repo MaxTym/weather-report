@@ -1,0 +1,34 @@
+[
+    {
+        "type": "WAT",
+        "description": "Coastal Hazard Statement",
+        "tz_short": "CST",
+        "expires": "11:00 PM CST on December 04, 2016",
+        "StormBased": {},
+        "phenomena": "RP",
+        "expires_epoch": "1480914000",
+        "date_epoch": "1480842120",
+        "tz_long": "America/Chicago",
+        "significance": "S",
+        "date": "3:02 am CST on December 4, 2016/",
+        "ZONES": [
+            {
+                "ZONE": "108",
+                "state": "FL"
+            },
+            {
+                "ZONE": "112",
+                "state": "FL"
+            },
+            {
+                "ZONE": "114",
+                "state": "FL"
+            },
+            {
+                "ZONE": "115",
+                "state": "FL"
+            }
+        ],
+        "message": "\n...High rip current risk in effect through this evening...\n\nThe National Weather Service in Tallahassee has issued a high rip\ncurrent risk...which is in effect through this evening. \n\n* Timing...through this evening.\n\n* Surf height...2 to 4 feet...occasionally up to 5 feet.\n\nPrecautionary/preparedness actions...\n\nThere is a high risk of rip currents.\n\nRip currents are powerful channels of water flowing quickly away\nfrom shore. They occur most often at low spots or breaks in The\nSandbar...as well as in the vicinity of jetties and piers.\n\nHeed the advice of lifeguards...beach patrol flags...and signs\nbefore entering the water. If caught in a rip current do not swim\nagainst it. Face the shore and signal for help. Float or tread\nwater until the current ends or until rescued.\n\n\n\n\n\n"
+    }
+]

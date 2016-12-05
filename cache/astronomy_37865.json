@@ -1,0 +1,26 @@
+{
+    "percentIlluminated": "27",
+    "hemisphere": "North",
+    "sunset": {
+        "hour": "17",
+        "minute": "21"
+    },
+    "current_time": {
+        "hour": "21",
+        "minute": "10"
+    },
+    "moonrise": {
+        "hour": "11",
+        "minute": "16"
+    },
+    "sunrise": {
+        "hour": "7",
+        "minute": "29"
+    },
+    "ageOfMoon": "5",
+    "moonset": {
+        "hour": "22",
+        "minute": "08"
+    },
+    "phaseofMoon": "Waxing Crescent"
+}

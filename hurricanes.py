@@ -6,7 +6,7 @@ import os.path
 class Hurricane:
 
     def get_weather():
-        filename = "hurricanes.json"
+        filename = "cache/hurricanes.json"
         if os.path.isfile(filename):
             with open(filename, "r") as f:
                 results = json.loads(f.read())

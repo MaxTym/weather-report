@@ -22,11 +22,11 @@ def get_zip_code():
 def get_users_choice(zip_code):
     choice = input("What would you like to search for?\n'1' -- weather conditions\n'2' -- 10 day forecast\n'3' -- Sunrise and sunset times\n'4' -- Current weather alerts\n'5' -- Hurricanes\n")
     if choice == '1':
-        #try:
-        Conditions.get_weather(zip_code)
-        #except:
-        #    print("No cities match your zip code")
-        #    main()
+        try:
+            Conditions.get_weather(zip_code)
+        except:
+            print("No cities match your zip code")
+            main()
     if choice == '2':
         try:
             Forecast.get_weather(zip_code)

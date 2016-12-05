@@ -6,7 +6,7 @@ import os.path
 class Astronomy:
 
     def get_weather(zip):
-        filename = "astronomy_" + str(zip) + ".json"
+        filename = 'cache/astronomy_' + str(zip) + '.json'
         if os.path.isfile(filename):
             with open(filename, "r") as f:
                 results = json.loads(f.read())

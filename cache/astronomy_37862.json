@@ -1,0 +1,26 @@
+{
+    "phaseofMoon": "Waxing Crescent",
+    "hemisphere": "North",
+    "ageOfMoon": "5",
+    "moonrise": {
+        "hour": "11",
+        "minute": "15"
+    },
+    "current_time": {
+        "hour": "21",
+        "minute": "04"
+    },
+    "sunrise": {
+        "hour": "7",
+        "minute": "29"
+    },
+    "sunset": {
+        "hour": "17",
+        "minute": "20"
+    },
+    "percentIlluminated": "27",
+    "moonset": {
+        "hour": "22",
+        "minute": "07"
+    }
+}

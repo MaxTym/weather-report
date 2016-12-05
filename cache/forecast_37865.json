@@ -1,0 +1,182 @@
+[
+    {
+        "period": 0,
+        "fcttext": "Chance of late night showers. Lows overnight in the low 40s.",
+        "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+        "icon": "chancerain",
+        "fcttext_metric": "Chance of showers. Low 5C.",
+        "title": "Sunday",
+        "pop": "30"
+    },
+    {
+        "period": 1,
+        "fcttext": "Cloudy skies this evening. A few showers developing late. Low 41F. Winds light and variable. Chance of rain 30%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+        "icon": "nt_chancerain",
+        "fcttext_metric": "Light rain early...then remaining cloudy with showers overnight. Low around 5C. Winds light and variable. Chance of rain 70%.",
+        "title": "Sunday Night",
+        "pop": "30"
+    },
+    {
+        "period": 2,
+        "fcttext": "Overcast. Slight chance of a rain shower. High 53F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/cloudy.gif",
+        "icon": "cloudy",
+        "fcttext_metric": "Cloudy. Slight chance of a rain shower. High 12C. Winds light and variable.",
+        "title": "Monday",
+        "pop": "20"
+    },
+    {
+        "period": 3,
+        "fcttext": "Rain. Low 46F. Winds light and variable. Chance of rain 90%. Rainfall near a half an inch.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_rain.gif",
+        "icon": "nt_rain",
+        "fcttext_metric": "Rain likely. Low 8C. Winds light and variable. Chance of rain 90%. Rainfall around 12mm.",
+        "title": "Monday Night",
+        "pop": "90"
+    },
+    {
+        "period": 4,
+        "fcttext": "A steady rain in the morning. Showers continuing in the afternoon. Thunder possible. High 61F. N winds shifting to WSW at 10 to 15 mph. Chance of rain 90%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/rain.gif",
+        "icon": "rain",
+        "fcttext_metric": "A steady rain in the morning. Showers continuing in the afternoon. Thunder possible. High 16C. Winds WNW at 10 to 15 km/h. Chance of rain 90%.",
+        "title": "Tuesday",
+        "pop": "90"
+    },
+    {
+        "period": 5,
+        "fcttext": "Overcast. Low near 40F. Winds NNW at 5 to 10 mph.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_cloudy.gif",
+        "icon": "nt_cloudy",
+        "fcttext_metric": "Cloudy skies. Low 4C. Winds NNW at 10 to 15 km/h.",
+        "title": "Tuesday Night",
+        "pop": "20"
+    },
+    {
+        "period": 6,
+        "fcttext": "Partly cloudy. High 54F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+        "icon": "partlycloudy",
+        "fcttext_metric": "Sunshine and clouds mixed. High 12C. Winds light and variable.",
+        "title": "Wednesday",
+        "pop": "10"
+    },
+    {
+        "period": 7,
+        "fcttext": "Cloudy with occasional showers late at night. Low near 40F. Winds light and variable. Chance of rain 60%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+        "icon": "nt_chancerain",
+        "fcttext_metric": "Considerable cloudiness. Occasional rain showers later at night. Low near 5C. Winds light and variable. Chance of rain 60%.",
+        "title": "Wednesday Night",
+        "pop": "60"
+    },
+    {
+        "period": 8,
+        "fcttext": "Overcast with rain showers at times. High 42F. Winds WNW at 5 to 10 mph. Chance of rain 60%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+        "icon": "chancerain",
+        "fcttext_metric": "Considerable cloudiness with occasional rain showers. High around 5C. Winds WNW at 10 to 15 km/h. Chance of rain 60%.",
+        "title": "Thursday",
+        "pop": "60"
+    },
+    {
+        "period": 9,
+        "fcttext": "A few clouds from time to time. Low near 20F. Winds WNW at 5 to 10 mph.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+        "icon": "nt_partlycloudy",
+        "fcttext_metric": "A few clouds. Low -7C. Winds WNW at 10 to 15 km/h.",
+        "title": "Thursday Night",
+        "pop": "10"
+    },
+    {
+        "period": 10,
+        "fcttext": "Partly cloudy. High 32F. Winds NW at 5 to 10 mph.",
+        "icon_url": "http://icons.wxug.com/i/c/k/partlycloudy.gif",
+        "icon": "partlycloudy",
+        "fcttext_metric": "Partly cloudy. High around 0C. Winds light and variable.",
+        "title": "Friday",
+        "pop": "0"
+    },
+    {
+        "period": 11,
+        "fcttext": "Clear. Low 18F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+        "icon": "nt_clear",
+        "fcttext_metric": "Clear. Low -8C. Winds light and variable.",
+        "title": "Friday Night",
+        "pop": "0"
+    },
+    {
+        "period": 12,
+        "fcttext": "Sunshine. High around 40F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/clear.gif",
+        "icon": "clear",
+        "fcttext_metric": "A few clouds from time to time. High 4C. Winds light and variable.",
+        "title": "Saturday",
+        "pop": "0"
+    },
+    {
+        "period": 13,
+        "fcttext": "Mainly clear early, then a few clouds later on. Low near 25F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_clear.gif",
+        "icon": "nt_clear",
+        "fcttext_metric": "Clear to partly cloudy. Low -4C. Winds light and variable.",
+        "title": "Saturday Night",
+        "pop": "0"
+    },
+    {
+        "period": 14,
+        "fcttext": "Mostly cloudy skies. High 49F. Winds S at 5 to 10 mph.",
+        "icon_url": "http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+        "icon": "mostlycloudy",
+        "fcttext_metric": "Mainly cloudy. High 9C. Winds S at 10 to 15 km/h.",
+        "title": "Sunday",
+        "pop": "20"
+    },
+    {
+        "period": 15,
+        "fcttext": "Cloudy with occasional rain showers. Low 36F. Winds light and variable. Chance of rain 60%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+        "icon": "nt_chancerain",
+        "fcttext_metric": "Overcast with rain showers at times. Low 2C. Winds light and variable. Chance of rain 60%.",
+        "title": "Sunday Night",
+        "pop": "60"
+    },
+    {
+        "period": 16,
+        "fcttext": "Overcast with rain showers at times. High 57F. Winds light and variable. Chance of rain 60%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+        "icon": "chancerain",
+        "fcttext_metric": "Overcast with rain showers at times. High 14C. Winds light and variable. Chance of rain 60%.",
+        "title": "Monday",
+        "pop": "60"
+    },
+    {
+        "period": 17,
+        "fcttext": "Overcast with rain showers at times. Low 42F. Winds light and variable. Chance of rain 60%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_chancerain.gif",
+        "icon": "nt_chancerain",
+        "fcttext_metric": "Considerable cloudiness with occasional rain showers. Low around 5C. Winds light and variable. Chance of rain 60%.",
+        "title": "Monday Night",
+        "pop": "60"
+    },
+    {
+        "period": 18,
+        "fcttext": "A shower or two around the area in the morning, then partly cloudy in the afternoon. High 53F. Winds WNW at 5 to 10 mph. Chance of rain 30%.",
+        "icon_url": "http://icons.wxug.com/i/c/k/chancerain.gif",
+        "icon": "chancerain",
+        "fcttext_metric": "A shower or two around the area in the morning, then partly cloudy in the afternoon. High 12C. Winds NW at 10 to 15 km/h. Chance of rain 30%.",
+        "title": "Tuesday",
+        "pop": "30"
+    },
+    {
+        "period": 19,
+        "fcttext": "Partly cloudy. Low 34F. Winds light and variable.",
+        "icon_url": "http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+        "icon": "nt_partlycloudy",
+        "fcttext_metric": "A few clouds. Low 1C. Winds light and variable.",
+        "title": "Tuesday Night",
+        "pop": "20"
+    }
+]
